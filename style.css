@@ -188,7 +188,7 @@ body {
     margin: 0.4em;
     width: 100%;
 }
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 500px) {
     .navbar-toggle {
         display: none;
     }
