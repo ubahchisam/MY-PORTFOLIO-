@@ -220,7 +220,7 @@ a.active,a:hover{
 #radio5:checked~.navigation-auto .auto-btn5 {
     background: #07012e;
 }
-@media screen and (max-width: 850px) {
+@media (max-width: 850px) {
     .navigation-manual {
         left: -50px;
     }
@@ -228,7 +228,7 @@ a.active,a:hover{
         left: -50px;
     }
 }
-@media screen and (max-width: 700px) {
+@media (max-width: 700px) {
     .navigation-manual {
         left: -100px;
     }
@@ -236,7 +236,7 @@ a.active,a:hover{
         left: -100px;
     }
 }
-@media screen and (max-width: 550px) {
+@media (max-width: 550px) {
     .navigation-manual {
         left: -150px;
     }
@@ -244,7 +244,7 @@ a.active,a:hover{
         left: -150px;
     }
 }
-@media screen and (max-width: 480px) {
+@media (max-width: 480px) {
     .navigation-manual {
         left: -220px;
     }
@@ -324,14 +324,14 @@ a.active,a:hover{
 .profile-contents.active-content { 
     display: block; 
 }
-@media screen and (max-width: 950px) {
+@media (max-width: 950px) {
     .skil-edu{
     padding: 20px;
     flex-basis: 50%;
     display: block;
 }
 }
-@media screen and (max-width: 800px) {
+@media (max-width: 800px) {
     .skil-edu{
     padding: 20px;
     flex-basis: 100%;
@@ -399,7 +399,7 @@ a.active,a:hover{
     color: whitesmoke;
     font-size: 1.1rem;
 }
-@media screen and (max-width: 950px) {
+@media (max-width: 950px) {
     .my-services-col {
         flex-wrap: wrap;
         justify-content: space-around;
@@ -409,7 +409,7 @@ a.active,a:hover{
         flex-basis: 45%;
     }
 }
-@media screen and (max-width: 750px) {
+@media (max-width: 750px) {
     .my-services-col {
         flex-direction: column;
         gap: 30px;
@@ -427,7 +427,7 @@ a.active,a:hover{
         padding-top: 10px;
     }
 }
-@media screen and (max-width: 480px) {
+@media (max-width: 480px) {
     .my-services-col {
         flex-direction: column;
         gap: 30px;
@@ -564,7 +564,7 @@ a.active,a:hover{
 .my-portfolio-row:hover i {
     display: block;
 }
-@media screen and (max-width: 950px) {
+@media (max-width: 950px) {
     .my-portfolio-col {
         flex-wrap: wrap;
         justify-content: space-around;
@@ -574,7 +574,7 @@ a.active,a:hover{
         flex-basis: 45%;
     }
 }
-@media screen and (max-width: 750px) {
+@media (max-width: 750px) {
     .my-portfolio-col {
         flex-direction: column;
         gap: 30px;
@@ -590,7 +590,7 @@ a.active,a:hover{
     top: 20%;
 }
 }
-@media screen and (max-width: 480px) {
+@media (max-width: 480px) {
     .my-portfolio-col {
         flex-direction: column;
         gap: 30px;
@@ -663,7 +663,7 @@ a.active,a:hover{
     padding: 10px;
     text-align: center;
 }
-@media screen and (max-width: 850px) {
+@media (max-width: 850px) {
     .about-text .ul-head{
     flex-wrap: wrap;
     justify-content: space-between;
@@ -673,7 +673,7 @@ a.active,a:hover{
     flex-basis: 45%;
 }
 }
-@media screen and (max-width: 700px) {
+@media (max-width: 700px) {
     .about-text .ul-head{
     flex-direction: column;
 }
@@ -781,7 +781,7 @@ a.active,a:hover{
     padding: 5px;
     border-top: 8px solid #07012e;
 }
-@media screen and (max-width: 800px) {
+@media (max-width: 800px) {
     .footer-socials ul {
         gap: 15px;
     }
