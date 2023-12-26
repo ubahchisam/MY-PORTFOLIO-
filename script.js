@@ -38,6 +38,7 @@ document
     });
   });
 
+
 //const profile
 var profilelinks = document.getElementsByClassName("profile-links");
 var profilecontents = document.getElementsByClassName("profile-contents");
