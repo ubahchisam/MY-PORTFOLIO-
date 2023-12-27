@@ -34,7 +34,7 @@ width: 100vw;
     top: 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
     z-index: 3;
-    width: 100%;
+    width: 100vw;
 }
 .navbar-container {
     display: flex;
