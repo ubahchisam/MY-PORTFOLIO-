@@ -59,7 +59,7 @@ width: 100vw;
 }
 .navbar-link {
     justify-content: center;
-    width: 100%;
+    width: 80%;
     padding: 0.4em 0.8em;
     border-radius: 5px;
 }
@@ -188,7 +188,7 @@ width: 100vw;
 }
 .navbar-item {
     margin: 0.4em;
-    width: 100%;
+    width: 80%;
 }
 }
 @media screen and (min-width: 701px) {
