@@ -34,7 +34,7 @@ width: 100vw;
     top: 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
     z-index: 3;
-    width: 100%;
+    width: 100vw;
 }
 .navbar-container {
     display: flex;
@@ -123,11 +123,11 @@ width: 100vw;
 }
 #navbar-menu.sidebar,
 #navbar-menu.sidebar.left {
-    left: -1000px;
+    left: -900px;
     right: 0;
 }
 #navbar-menu.sidebar.right {
-    right: -1000px;
+    right: -900px;
     left: 0;
 }
 #navbar-menu.detached,
