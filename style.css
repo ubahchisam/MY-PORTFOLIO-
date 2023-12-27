@@ -14,7 +14,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     background: hsl(244, 93%, 11%);
-    width: 100vw;
 }
 @media screen and (max-width: 700px) {
 .container {
@@ -34,7 +33,7 @@ body {
     top: 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
     z-index: 3;
-    width: 100vw;
+    width: 100%;
 }
 .navbar-container {
     display: flex;
