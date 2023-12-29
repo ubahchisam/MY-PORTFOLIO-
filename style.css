@@ -750,7 +750,7 @@ width: 100vw;
     border-top: 8px solid #07012e;
 }
 .footer-bottom p {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 @media (max-width: 800px) {
     .footer-socials ul {
