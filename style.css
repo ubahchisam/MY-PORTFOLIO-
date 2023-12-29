@@ -749,6 +749,9 @@ width: 100vw;
     padding: 5px;
     border-top: 8px solid #07012e;
 }
+.footer-bottom p {
+    font-size: 0.9rem;
+}
 @media (max-width: 800px) {
     .footer-socials ul {
         gap: 15px;
